@@ -17,8 +17,3 @@ Here are some ideas to get you started:
 I studied Computer Science at National Central University, Taiwan.
 
 All questions are welcome!
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peter-Kung&show_icons=true&theme=apprentice) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Peter-Kung&hide=php&show_icons=true&theme=apprentice&layout=compact)
-
